@@ -1,0 +1,26 @@
+body {
+    background-color: #e4cd4a;
+}
+ 
+h1,
+h2,
+h3 {
+    color: #381b00;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px
+}
+
+p,
+li {
+    font-family: sans-serif;
+}
+
+.image-recipe {
+    max-width: 550px;
+    width: 100%;
+    height: auto;
+}
